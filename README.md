@@ -1,2 +1,2 @@
 # Web-Crawler
-A simple web crawler in rust
+A simple concurrent web crawler in rust
