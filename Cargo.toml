@@ -1,0 +1,11 @@
+[package]
+name = "bb"
+version = "0.1.0"
+authors = ["Mingyang Li <liamlmy@163.com>"]
+
+[dependencies]
+hyper = "0.10"
+hyper-native-tls = "0.2"
+error-chain = "0.8"
+select = "0.3"
+term = "*"
